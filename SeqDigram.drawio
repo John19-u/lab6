@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="yJv9L2F77DYTUIYri4oO">
-    <mxGraphModel dx="868" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1842" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SXEQlZ7DKGvAJKD9bD8c-23" value="SelectCourse&lt;div&gt;(CourseID)&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="120" width="80" height="30" as="geometry" />
+          <mxGeometry x="60" y="120.00000000000001" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SXEQlZ7DKGvAJKD9bD8c-25" value="enrollStudent(StudentID,CourseID)" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="170" width="130" height="30" as="geometry" />
@@ -116,6 +116,12 @@
         </mxCell>
         <mxCell id="SXEQlZ7DKGvAJKD9bD8c-31" value="Show conformation message" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="80" y="450" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SXEQlZ7DKGvAJKD9bD8c-35" value="loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="160" width="630" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="SXEQlZ7DKGvAJKD9bD8c-36" value="opt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="450" width="510" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
